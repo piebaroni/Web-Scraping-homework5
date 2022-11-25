@@ -5,7 +5,7 @@ path per la search bar->https://beta.canadasbusinessregistries.ca/search
 
 *nota*
 chiede almeno 3 caratteri
-
+NON VA
 caratteri da inserire possono essere: 
 ltd->200 risultati
 spa->200 risultati
