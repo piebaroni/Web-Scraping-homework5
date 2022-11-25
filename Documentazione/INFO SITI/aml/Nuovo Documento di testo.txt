@@ -1,0 +1,15 @@
+path principale che collega a tutti i official registries del mondo: https://aml-cft.net/library/company-registers/
+
+
+
+utili
+
+1)https://www.unternehmensregister.de/ureg/?submitaction=language&language=en   (da vedere)
+
+2)italianBuisnessregister.it-> https://italianbusinessregister.it/en/home
+
+	ricerca per categoria di prodotto, es WINE, INFORMATICA
+	https://italianbusinessregister.it/en_US/search-results?p_p_id=risultatiricercaimprese_WAR_ricercaPIportlet&p_p_lifecycle=0&p_p_state=normal&_risultatiricercaimprese_WAR_ricercaPIportlet_pageToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2Njk0NzE5OTMsImNvdW50IjoyNTB9.K8FFBnLX86XmC9rQlnKHqIWdqVyEtf00EBWxteYUJDM
+	difficile
+
+3) BICAR-> permette di estrarre una lista molto ampia di nomi di aziende utili per ricerche esatte

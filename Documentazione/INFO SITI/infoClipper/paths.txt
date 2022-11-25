@@ -1,0 +1,34 @@
+la ricerca è per country
+Danno una lista di imprese suddivise per nazione
+
+path USA->https://www.info-clipper.com/en/companies/united-states.us/groups.html
+
+genera una pagina con tutte ancore da cui è possibile navigare ed estrarre il dettaglio
+
+https://www.info-clipper.com/en/company/united-states/shipt-inc.usd1bh0kd.html
+
+
+USA->https://www.info-clipper.com/en/companies/united-states.us/groups.html (es. https://www.info-clipper.com/en/company/united-states/shipt-inc.usd1bh0kd.html)
+ITALY->https://www.info-clipper.com/en/companies/italy.it/groups.html  (es. https://www.info-clipper.com/en/company/italy/illva-saronno-holding-spa.itd7388mx.html)
+GIAPPONE-> https://www.info-clipper.com/en/companies/japan.jp/groups.html (es. https://www.info-clipper.com/en/company/japan/marelli-corporation.jpdbf4lkw.html)
+
+
+
+NOTA
+Poche info di dettaglio
+Name
+MARELLI CORPORATION
+Address
+2-1917, NISSHINCHO, KITA-KU
+City
+SAITAMA
+- 331-0823
+Country
+JAPAN
+Location Type
+Headquarter
+DUNS® Number
+69-------
+Telephone
++81 48-------
+

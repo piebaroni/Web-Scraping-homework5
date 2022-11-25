@@ -1,0 +1,122 @@
+basic path-> https://en.wikipedia.org/wiki/Lists_of_companies
+
+specific category-> https://en.wikipedia.org/wiki/List_of_multinational_corporations (la stinga dopo wiki è il nome della specifica categoria selezionata)
+
+specific agency-> https://en.wikipedia.org/wiki/85%C2%B0C_Bakery_Cafe (la stringa dopo wiki è il nome dell'azienda=)
+
+
+INFORMAZIONI
+SONO tutte della stessa struttura
+
+Traded as	TWSE: 2723
+Industry	Food and Beverage
+Founded	2004; 18 years ago
+Headquarters	Taipei, Taiwan
+Number of locations	China: 538 shops[1]
+Taiwan: 400 shops[1]
+United States: 59 shops[2]
+Australia: 12 shops[3]
+Hong Kong: 8 shops[1]
+Area served	Worldwide
+Key people	Wu Cheng-hsueh (吳政學(Pe̍h-ōe-jī: Ngô͘ Chèng-ha̍k))
+Revenue	NT$23,018,413,000元[4] (2017)
+Website	Chinese:
+China, Taiwan, Hong Kong
+www.85cafe.com
+English:
+Australia
+[1]
+United States
+www.85cbakerycafe.com
+
+
+Formerly	2Tor Inc. (2008–2012)
+Type	Public company
+Traded as	
+Nasdaq: TWOU
+Russell 2000 component
+Founded	2008; 14 years ago
+Founders	
+John Katzman
+Jeremy Johnson
+Christopher J. Paucek
+Headquarters	Lanham, Maryland, U.S.
+Area served	Global
+Key people	
+Paul A. Maeder
+(Chairman)
+Christopher J. Paucek
+(CEO)
+Services	educational technology, online program manager
+Revenue	Increase US$946 million (2021)
+Operating income	Increase US$−167 million (2021)
+Net income	Increase US$−195 million (2021)
+Total assets	Increase US$2.11 billion (2021)
+Total equity	Decrease US$829 million (2021)
+Number of employees	3,982 (2021)
+Subsidiaries	
+edX
+Trilogy Education Services
+Website	2u.com
+
+
+Type	Public
+Traded as	
+BSE: 500096
+NSE: DABUR
+ISIN	INE016A01026
+Industry	Consumer goods
+Founded	1884; 138 years ago
+Founder	S. K. Burman
+Headquarters	Ghaziabad, Uttar Pradesh, India
+Area served	Worldwide
+Key people	
+Amit Burman
+(Chairman)
+Mohit Burman
+(CEO)
+Products	
+Personal care
+Skin care
+Hair care
+Oral hygiene
+Health supplements
+Drinks
+Revenue	Increase ₹8,989 crore (US$1.1 billion) (2020)[1]
+Operating income	Increase ₹1,827 crore (US$230 million) (2020)[1]
+Net income	Increase ₹1,444 crore (US$180 million) (2020)[1]
+Total assets	Increase ₹9,354 crore (US$1.2 billion) (2020)[1]
+Number of employees	7,740 (March 2020)[1]
+Subsidiaries	
+Dabur Research Foundation
+Aviva India
+H&B Stores Ltd
+Website	www.dabur.com
+Footnotes / references
+
+
+Formerly	PC's Limited (1984-1987)
+Dell Computer Corporation (1987-2003)
+Type	Subsidiary
+Industry	Computer hardware
+Computer software
+Founded	February 1, 1984; 38 years ago
+Founder	Michael Dell
+Headquarters	Round Rock, Texas, US[1]
+Area served	Worldwide
+Key people	Michael Dell (chairman & CEO)
+Products	
+Personal computers
+Servers
+Peripherals
+Smartphones
+Televisions
+Revenue	Increase US$101.6 billion (FY 2022)[2]
+Number of employees	165,000 (Early 2020)[3]
+Parent	Dell Technologies
+Website	www.dell.com
+
+
+Possibile logica:
+da path_base accedo alla table e prendo il path (nome) della categoria.
+Dal path categoria predno il nome dell'azienda e proseguo

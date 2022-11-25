@@ -1,0 +1,9 @@
+https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html
+
+
+richiede il nome esatto dell'azienda
+Possibile soluzione:
+
+prendiamo una lista di 1000 aziende e la inseriamo
+
+Inutile, mi porta nella pagina Buisennes registration

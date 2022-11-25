@@ -1,0 +1,65 @@
+CANADA'S BUSINESS REGISTRIES
+
+
+path per la search bar->https://beta.canadasbusinessregistries.ca/search
+
+*nota*
+chiede almeno 3 caratteri
+
+caratteri da inserire possono essere: 
+ltd->200 risultati
+spa->200 risultati
+srl->41 risultati
+inc->200 risultati
+PLC->82
+LLC->200
+public->200
+Corp->200
+
+
+SRL
+path base (solo attive)->https://beta.canadasbusinessregistries.ca/search/results?search=%7Bsrl%7D&status=Active (solo attive) 
+path attive e non attive->lo stesso
+
+path pagine superiori alla prima->
+https://beta.canadasbusinessregistries.ca/search/results?search=%7Bsrl%7D&status=Active&page=0
+https://beta.canadasbusinessregistries.ca/search/results?search=%7Bsrl%7D&status=Active&page=1
+
+
+INC
+https://beta.canadasbusinessregistries.ca/search/results?search=%7Binc%7D&status=Active&page=0 (1,2,3,4 ...)
+
+SPA
+https://beta.canadasbusinessregistries.ca/search/results?search=%7Bspa%7D&status=Active&page=0 (1,2,3,4 ...)
+
+CORP
+https://beta.canadasbusinessregistries.ca/search/results?search=%7Bcorp%7D&status=Active&page=0 (1,2,3,4 ...)
+
+LLC
+https://beta.canadasbusinessregistries.ca/search/results?search=%7Bllc%7D&status=Active&page=0 (1,2,3,4 ...)
+
+PLC
+https://beta.canadasbusinessregistries.ca/search/results?search=%7Bllc%7D&status=Active&page=0 (1,2,3,4 ...)
+
+
+
+PAGINE DI DETTAGLIO
+Accessibili solo per una piccola parte di aziende
+Altri sono a pagamento
+Altri portano in altri 
+
+
+INFORMAZIONI PRESENTI NON IN DETTAGLIO
+BC HOP COMPANY LTD.
+Business Number (BN): -
+Registry ID: BC1366151
+Registered Office Location: Vancouver, BC
+Status: Active
+Status Notes: -
+Business Type: BC Company
+Created: 2022-06-06
+
+
+
+
+

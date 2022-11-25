@@ -1,0 +1,6 @@
+Search path:
+https://rjsc.novascotia.ca/search
+
+
+la pagina è poco intuitiva.
+Non ci sono path specifici ma gira tutto via script

@@ -1,0 +1,6 @@
+Path ricerca:
+https://find-and-update.company-information.service.gov.uk/search/companies?q=a
+
+
+Path company:
+https://find-and-update.company-information.service.gov.uk/company/11790215
