@@ -1,0 +1,12 @@
+"LINK LISTA = https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=1								";;;;;;
+"LINK AZIENDA = https://companiesmarketcap.com/NOME/marketcap/								";;;;;;
+"								";;;;;;
+"ATTRIBUTI							";XPATH;;;;;
+"Name							";"//div[@class = ""company-name""]";;;;;
+"Code							";"//div[@class = ""company-code""]";;;;;
+"Rank						";"//div[text() = ""Rank""]/../div[1]/text()";;;;;
+"Marketcap						";"//div[text() = ""Marketcap""]/../div[1]/text()";;;;;
+"Country					";è una bandiera;;;;;
+"Share price							";"//div[text() = ""Share price""]/../div[1]/text()";;;;;
+Change(1 year/1 day);"//div[contains(text(), ""Change"")]/../div[1]";;;;;Ritorna una lista con entrambe
+"Categorie dei prodotti/mercato a cui appartiene						";"//a[@class = ""badge badge-light category-badge""]";;;;;
