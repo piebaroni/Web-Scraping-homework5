@@ -1,0 +1,21 @@
+path base
+
+caratteri da inserire possono essere: 
+ltd->https://ariregister.rik.ee/eng/company_search_result/3cfdaec?name_or_code=ltd , #ris=217
+spa->https://ariregister.rik.ee/eng/company_search_result/fda1b18?name_or_code=spa	(1465)
+srl->https://ariregister.rik.ee/eng/company_search_result/d14f96c?name_or_code=srl (4)
+inc->https://ariregister.rik.ee/eng/company_search_result/69fd17d?name_or_code=inc (915)
+PLC->https://ariregister.rik.ee/eng/company_search_result/4d23d44?name_or_code=PLC (21)
+LLC->https://ariregister.rik.ee/eng/company_search_result/8f2f439?name_or_code=LLC (147)
+public-> https://ariregister.rik.ee/eng/company_search_result/f54f6a0?name_or_code=public (97)
+Corp-> https://ariregister.rik.ee/eng/company_search_result/f14e80f?name_or_code=corp (1074)
+
+
+dettaglio
+es, pagina di dettaglio->https://ariregister.rik.ee/eng/company/14330304/50-Inch-O%C3%9C?search_id=8cd0fdc&pos=1
+
+molte informazioni
+
+
+
+
