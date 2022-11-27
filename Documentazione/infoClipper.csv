@@ -1,0 +1,16 @@
+"LINK LISTA AZIENDE = https://www.info-clipper.com/en/companies/united-states.us/groups.html							";;;;;;;;;
+"LINK COMPAGNIA = https://www.info-clipper.com/en/company/united-states/NOME.html							";;;;;;;;;
+"							";;;;;;;;;
+"Nella pagina USA ci sono 1120 aziende							";;;;;;;;;
+"							";;;;;;;;;
+"ATTRIBUTI					";XPATH;;;;;;;;
+"Name					";"//span[text() = ""Name""]/../strong";;;;;;;;
+Country;"//span[text() = ""Country""]/../a";;;;;SEMPRE UNITED STATES (inutile?);;;
+"State					";"//*[@id=""company_identity""]/div[1]/div[4]/span/text()";;;;;;;;
+"Region						";"//*[@id=""company_identity""]/div[1]/div[5]/span/text()";;;;;;;;
+"City					";"//span[text() = ""City""]/../a";;;;;;;;
+"Address					";"//*[@id=""company_identity""]/div[1]/div[2]/span/text()";;;;;;;;
+"Location Type					";"//*[@id=""company_identity""]/div[1]/div[7]/span/text()";;;;;;;;
+DUNS number;censurato;;;;;;;;codice di identificazione univoco di nove cifre che viene assegnato a ciascuna società censita nel database Dun & Bradstreet
+"Telephone						";censurato;;;;;;;;
+"compagnie nel gruppo					";"//*[@id=""company_identity""]/div[1]/p/text()";;;;;;;;

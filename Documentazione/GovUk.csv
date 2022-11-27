@@ -1,21 +1,21 @@
-LINK RICERCA = https://find-and-update.company-information.service.gov.uk/search/companies?q=a&page=1	
-LINK COMPAGNIA = https://find-and-update.company-information.service.gov.uk/company/IDCOMPAGNIA	
-	
-ATTRIBUTI	XPATH
-Nome	"//p[@class = ""heading-xlarge""]"
-Company Number	"//p[@id = ""company-number""]/strong"
-	
-Company status	"//dt[text() = ""Company status""]/../dd"
-SE Registered	
-Registered on	"//dt[text() = ""Registered on""]/../dd"
-SE Dissolved 	
-Dissolved on	"//dt[text() = ""Dissolved on""]/../dd"
-SE Dissoved o Active	
-Incorporated on	"//dt[text() = ""Incorporated on""]/../dd"
-	
-Company type	"//dt[text() = ""Company type""]/../dd"
-SE Overseas Entity:	
-Correspondence Address	"//dt[text() = ""Correspondence address""]/../dd"
-ALTRIMENTI	
-Registered office address	"//dt[text() = ""Registered office address""]/../dd"
-Nature of business (LISTA)	"//span[@id = ""sic0""]"
+"LINK RICERCA = https://find-and-update.company-information.service.gov.uk/search/companies?q=a&page=1	";
+"LINK COMPAGNIA = https://find-and-update.company-information.service.gov.uk/company/IDCOMPAGNIA	";
+"	";
+ATTRIBUTI;XPATH
+"Nome	";"//p[@class = ""heading-xlarge""]"
+Company Number;"//p[@id = ""company-number""]/strong"
+"	";
+Company status;"//dt[text() = ""Company status""]/../dd"
+"SE Registered	";
+Registered on;"//dt[text() = ""Registered on""]/../dd"
+"SE Dissolved 	";
+Dissolved on;"//dt[text() = ""Dissolved on""]/../dd"
+"SE Dissoved o Active	";
+Incorporated on;"//dt[text() = ""Incorporated on""]/../dd"
+"	";
+Company type;"//dt[text() = ""Company type""]/../dd"
+"SE Overseas Entity:	";
+Correspondence Address;"//dt[text() = ""Correspondence address""]/../dd"
+"ALTRIMENTI	";
+Registered office address;"//dt[text() = ""Registered office address""]/../dd"
+Nature of business (LISTA);"//span[@id = ""sic0""]"
