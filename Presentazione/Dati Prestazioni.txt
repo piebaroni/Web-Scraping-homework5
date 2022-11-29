@@ -1,0 +1,9 @@
+GOV.UK
+tempo di esecuzione: 285.9 secondi   99.2
+aziende estratte: 480                160
+query per azienda: 7
+
+COMPANIES MARKET CAP
+tempo di esecuzione: 164 secondi        1277 secondi
+aziende estratte: 200                   1400 aziende
+query per azienda: 10
