@@ -7,3 +7,4 @@ COMPANIES MARKET CAP
 tempo di esecuzione: 164 secondi        1277 secondi
 aziende estratte: 200                   1400 aziende
 query per azienda: 10
+
