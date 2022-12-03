@@ -10,7 +10,7 @@ City: //*[@id="company_identity"]/div[1]/div[3]/span //*[@id="company_identity"]
 
 Country: //*[@id="company_identity"]/div[1]/div[4]/span	//*[@id="company_identity"]/div[1]/div[5]/span
 
-Location Type: ////*[@id="company_identity"]/div[1]/div[5]/span //*[@id="company_identity"]/div[1]/div[6]/span
+Location Type: //*[@id="company_identity"]/div[1]/div[5]/span //*[@id="company_identity"]/div[1]/div[6]/span
 
 Estonia
 
