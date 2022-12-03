@@ -1,0 +1,40 @@
+$x('string(//*[@id="company_identity"]/div[1]/div[1]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[2]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[3]/span)')	
+$x('string(//*[@id="company_identity"]/div[1]/div[4]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[5]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[6]/span)')
+
+//*[@id="company_identity"]/div[1]/div[1]/span
+//*[@id="company_identity"]/div[1]/div[2]/span
+//*[@id="company_identity"]/div[1]/div[3]/span
+//*[@id="company_identity"]/div[1]/div[4]/span
+//*[@id="company_identity"]/div[1]/div[5]/span
+//*[@id="company_identity"]/div[1]/div[6]/span
+
+
+Name: //*[@id="company_identity"]/div[1]/div[1]/span
+
+Trade name (?): //*[@id="company_identity"]/div[1]/div[2]/span 
+
+Address: //*[@id="company_identity"]/div[1]/div[2]/span //*[@id="company_identity"]/div[1]/div[3]/span
+
+City: //*[@id="company_identity"]/div[1]/div[3]/span //*[@id="company_identity"]/div[1]/div[4]/span
+
+Country: //*[@id="company_identity"]/div[1]/div[4]/span	//*[@id="company_identity"]/div[1]/div[5]/span
+
+Location Type: ////*[@id="company_identity"]/div[1]/div[5]/span //*[@id="company_identity"]/div[1]/div[6]/span
+
+
+
+
+
+ANALISI POSTAL COSE IN CITY
+M22 0RR
+
+La prima parte è associata al codice esterno, identifico per ogni regione UK
+la seconda è un codice interno per identificare la zona
+
+Conviene suddividrlo?
+Utile ai fini di analisi
+

@@ -1,0 +1,79 @@
+1. X_path per il div relativo alla lista di aziende:
+USA
+//*[@id="leContenu"]/div[1]
+
+UK
+//*[@id="leContenu"]/div[1]
+
+ITALIA
+//*[@id="leContenu"]/div[1]
+
+ESTONIA
+//*[@id="leContenu"]/div[1]
+
+==SONO UGUALI===
+
+2)ANALISI DATI: CONFRONTO
+
+USA
+NOME AZIENDA: //*[@id="company_identity"]/div[1]/div[1]/span/strong
+
+Trade name (?)://*[@id="company_identity"]/div[1]/div[2]/span/span 
+Restituisce la frase: Trade Name X
+Da eliminare la parte Trade Name (Trasformare in una stringa divisa per ' ' ed eliminare le prime 2 parole
+
+se presente
+attiva un flag per incrementare l'indice di div pre tutti i prossimi elementi
+Primo controllo
+
+Address: 0)//*[@id="company_identity"]/div[1]/div[3]/span/span  1)//*[@id="company_identity"]/div[1]/div[2]/span/span
+
+City: //*[@id="company_identity"]/div[1]/div[4]/span  	//*[@id="company_identity"]/div[1]/div[3]/span
+
+L' info comprende anche le informazioni relative allo zip code:
+
+
+City (/n)FREMONT (/n)- 945397916
+Citi (/n)HOUSTON\n- 770418223
+
+State (presente solo negli USA): //*[@id="company_identity"]/div[1]/div[5]/span 	//*[@id="company_identity"]/div[1]/div[4]/span
+
+State(?)  /n Alabama
+
+Region (presente solo negli USA (?)  //*[@id="company_identity"]/div[1]/div[6]/span 	//*[@id="company_identity"]/div[1]/div[5]/span
+
+Country: //*[@id="company_identity"]/div[1]/div[7]/span 	//*[@id="company_identity"]/div[1]/div[6]/span
+
+Location type (vedo se sono interne o estere): //*[@id="company_identity"]/div[1]/div[8]/span 	//*[@id="company_identity"]/div[1]/div[7]/span)'
+
+
+Comandi testati:
+$x('string(//*[@id="company_identity"]/div[1]/div[1]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[2]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[3]/span)')	
+$x('string(//*[@id="company_identity"]/div[1]/div[4]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[5]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[6]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[7]/span)')
+$x('string(//*[@id="company_identity"]/div[1]/div[8]/span)')
+
+ANALISI:
+eliminare i \n
+suddividere nome field dal valore
+
+
+
+XQuerys
+//*[@id="company_identity"]/div[1]/div[1]/span
+//*[@id="company_identity"]/div[1]/div[2]/span
+//*[@id="company_identity"]/div[1]/div[3]/span
+//*[@id="company_identity"]/div[1]/div[4]/span
+//*[@id="company_identity"]/div[1]/div[5]/span
+//*[@id="company_identity"]/div[1]/div[6]/span
+//*[@id="company_identity"]/div[1]/div[7]/span
+//*[@id="company_identity"]/div[1]/div[8]/span
+
+
+
+
+
