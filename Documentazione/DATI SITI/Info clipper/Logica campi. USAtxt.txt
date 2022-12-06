@@ -74,6 +74,15 @@ XQuerys
 //*[@id="company_identity"]/div[1]/div[8]/span
 
 
+Name: //*[@id="company_identity"]/div[1]/div[1]/span
+Trade name (?): //*[@id="company_identity"]/div[1]/div[2]/span 
+Address: //*[@id="company_identity"]/div[1]/div[2]/span //*[@id="company_identity"]/div[1]/div[3]/span
+City: //*[@id="company_identity"]/div[1]/div[3]/span //*[@id="company_identity"]/div[1]/div[4]/span
+State://*[@id="company_identity"]/div[1]/div[4]/span	//*[@id="company_identity"]/div[1]/div[5]/span
+Region:
+Country:
+Location type
+
 
 
 
